@@ -127,6 +127,8 @@ performance indicators across a sample of **180 respondents**.
 | `Business Performance` | Dependent | Overall business results |
 | `Organizational Effectiveness` | Dependent | Operational efficiency outcomes |
 
+![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📁 Repository Structure
